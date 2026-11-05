@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f829e9c5-ab2a-4acd-8238-365174c4d234" name="Changes" comment="basic asssets - will put in nicer format asp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f829e9c5-ab2a-4acd-8238-365174c4d234" name="Changes" comment="na" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +116,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LibGDX setup :)" />
     <MESSAGE value="basic asssets - will put in nicer format asp" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic asssets - will put in nicer format asp" />
+    <MESSAGE value="na" />
+    <option name="LAST_COMMIT_MESSAGE" value="na" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
